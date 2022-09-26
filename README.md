@@ -1,5 +1,10 @@
 # [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
+## fork
+1.在sulingGG项目的基础修改了一点自定义一些配置
+2.修改分区大小=4G （默认750M）给app 安装使用，避免空间不足
+3.添加个人常用app
+
 ## 项目介绍
 
 1. 提供适配于 树莓派全系、Rockchip 平台、ipq40xx 平台以及 x86 平台设备的 OpenWrt 固件
