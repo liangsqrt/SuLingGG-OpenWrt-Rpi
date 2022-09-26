@@ -1,9 +1,10 @@
 # [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## fork
-1.在sulingGG项目的基础修改了一点自定义一些配置
-2.修改分区大小=4G （默认750M）给app 安装使用，避免空间不足
-3.添加个人常用app
+
+1. 在sulingGG项目的基础修改了一点自定义一些配置
+2. 修改分区大小=4G （默认750M）给app 安装使用，避免空间不足
+3. 添加个人常用app
 
 ## 项目介绍
 
