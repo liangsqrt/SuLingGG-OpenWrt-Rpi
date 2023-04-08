@@ -3,7 +3,7 @@
 ## fork
 
 1. 在sulingGG项目的基础修改了一点配置
-2. 修改ROOTFS_PARTSIZE=8G （默认750M）给docker app 安装使用，避免空间不足（使劲造）
+2. 修改ROOTFS_PARTSIZE=2G （默认750M）给docker app 安装使用，避免空间不足（使劲造）
 3. 添加个人常用app
 
 ## 项目介绍
